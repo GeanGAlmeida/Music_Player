@@ -3,7 +3,7 @@
 https://github.com/GeanGAlmeida/Music_Player/assets/163884623/cc2e38c3-7e2e-4726-ac8d-c12f75257958
 
 
-- Projeto feito com HTML, CSS e JAVASCRIPT,projeto é um player de música básico que permite reproduzir músicas, avançar para a próxima música, voltar para a música anterior, controlar o volume.
+- Projeto feito com HTML, CSS e JAVASCRIPT, projeto é um player de música básico que permite reproduzir músicas, avançar para a próxima música, voltar para a música anterior, controlar o volume e voltar a musica para o inicio.
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
